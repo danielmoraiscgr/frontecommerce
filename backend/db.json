@@ -1,0 +1,523 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Aneis",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 2,
+      "name": "Brincos",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 3,
+      "name": "Pulseiras e Tornozeleiras",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 4,
+      "name": "Conjuntos",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 5,
+      "name": "Coleções",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 6,
+      "name": "Outlet",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    }
+  ],
+  "subcategories": [
+    {
+      "id": 1,
+      "categoriaid": 1,
+      "name": "ANÉIS DE CORAÇÃO",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 2,
+      "categoriaid": 1,
+      "name": "ANÉIS DE FALANGE",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 3,
+      "categoriaid": 1,
+      "name": "ANÉIS SOLITÁRIOS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 4,
+      "categoriaid": 1,
+      "name": "ANÉIS DELICADOS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 5,
+      "categoriaid": 1,
+      "name": "ANÉIS DE ZIRCÓNIAS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 6,
+      "categoriaid": 1,
+      "name": "ANÉIS DE OURO 18K",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 7,
+      "categoriaid": 1,
+      "name": "ANÉIS DE PRATA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 8,
+      "categoriaid": 1,
+      "name": "ALIANÇAS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 9,
+      "categoriaid": 2,
+      "name": "BRINCOS DE ARGOLA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 10,
+      "categoriaid": 2,
+      "name": "BRINCOS DE ARGOLA COM ZIRCÔNIA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 11,
+      "categoriaid": 2,
+      "name": "BRINCOS DE CORAÇÃO",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 12,
+      "categoriaid": 2,
+      "name": "BRINCOS DE PÉROLAS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 13,
+      "categoriaid": 2,
+      "name": "BRINCOS DE ZIRCÔNIA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 14,
+      "categoriaid": 2,
+      "name": "BRINCOS DE ARGOLINHAS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 15,
+      "categoriaid": 2,
+      "name": "BRINCOS DE BOLINHA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 16,
+      "categoriaid": 2,
+      "name": "BRINCOS PEQUENOS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 17,
+      "categoriaid": 2,
+      "name": "BRINCOS EM OUTRO 18K",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 18,
+      "categoriaid": 2,
+      "name": "BRINCOS EM PRATA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 19,
+      "categoriaid": 2,
+      "name": "BRINCOS DE SWAROVISKI",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 20,
+      "categoriaid": 2,
+      "name": "BRINCOS DE ARGOLA EM PRATA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 21,
+      "categoriaid": 3,
+      "name": "COLARES DE CORAÇÃO",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 22,
+      "categoriaid": 3,
+      "name": "COLARES DE PEDRAS NATURAIS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 23,
+      "categoriaid": 3,
+      "name": "COLARES DE ZIRCÔNIA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 24,
+      "categoriaid": 3,
+      "name": "COLARES RELIGIOSOS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 25,
+      "categoriaid": 3,
+      "name": "COLARES DE OURO 18K",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 26,
+      "categoriaid": 3,
+      "name": "COLARES DE PRATA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 27,
+      "categoriaid": 3,
+      "name": "PULSEIRAS COM REGULÁVEIS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 28,
+      "categoriaid": 3,
+      "name": "PULSEIRAS DE PRATA",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 29,
+      "categoriaid": 3,
+      "name": "PULSEIRAS MASCULINAS",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    }
+  ],
+  "brand": [
+    {
+      "id": "Badulaque",
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "name": "ANEL CORAÇÃO CRAVEJADO COM ZIRCÔNIAS",
+      "description": "Anel com diversos corações vazados, em todo seu redor. Sendo que os 3 primeiros corações são cravejados com micro zircônias e folheado a 18k. Os anéis com zircônias dão um toque moderno e sofisticado no visual, podem ser usados em qualquer ocasião juntos com demais anéis ou separadamente formando um lindo mix de cores, tamanhos e modelos. Peça extremamente rica em acabamentos e detalhes. Impressiona por sua leveza e sofisticação. ",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 1,
+      "brandid": 1,
+      "price": 57,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_coracao_cravejado_com_zirconias_39_2_20200624122830.jpg",
+      "stock": 7,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 2,
+      "name": "ANEL FALANGE ZIRCÔNIA NAVETE",
+      "description": "Este modelo de anel chama muita atenção por seu brilho e versatilidade podendo ser usado sozinho ou em composições com outros anéis e acessórios, dando um toque moderno ao seu look. Banhado a ouro 18k e com zircônias em formatos navetes dando aquele charme e brilho especial no seu look.",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 2,
+      "brandid": 1,
+      "price": 18,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_zirconia_navete_61_2_20200624155454.jpg",
+      "stock": 4,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 3,
+      "name": "ANEL FALANGE CHUVEIRINHO EM ZIRCÔNIAS",
+      "description": "Este modelo de anel chama muita atenção por seu brilho e versatilidade podendo ser usado sozinho ou em composições com outros anéis e acessórios, dando um toque moderno ao seu look. Banhado a ouro 18k e com um chuveirinho central e detalhes laterais em zircônias dando aquele charme especial.",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 2,
+      "brandid": 1,
+      "price": 18,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_falange_com_2_zirconias_53_1_20200624151015.jpg",
+      "stock": 8,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 4,
+      "name": "ANEL FALANGE PRATA ENVELHECIDA TRIBAL",
+      "description": "Esse anel falange muito mimoso tem de tribal mais despojado fará sucesso em combinações com outros anéis. Em prata envelhecida o que da mais charme a peça, veja nossas sugestões para combinar com esse lindo falange.",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 2,
+      "brandid": 1,
+      "price": 18,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_falange_prata_envelhecida_tribal_215_2_20200701171312.jpg",
+      "stock": 15,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 5,
+      "name": "ANEL FALANGE PRATA ENVELHECIDA COROA",
+      "description": "Esse anel falange muito mimoso em formato de coroa toda trabalhada fará sucesso em combinações com outros anéis. Em prata 925 envelhecida o que da mais charme a peça, veja nossas sugestões para combinar com esse lindo falange.",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 2,
+      "brandid": 1,
+      "price": 39,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_falange_prata_envelhecida_coroa_213_2_20200701170543.jpg",
+      "stock": 9,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 6,
+      "name": "ANEL SOLITÁRIO COM PEDRA DE ZIRCÔNIA 6 GARRAS",
+      "description": "Anel solitário banhado em Ouro 18K e Zircônia. Anéis solitários é ideal para garantir um look com muito mais brilho e glamour. Um sucesso entre as mulheres os solitários sempre foi um acessório garantido para realçar as suas combinações. A Badulaque traz uma linha de solitários com zircônia, uma opção luxuosa e sofisticada para seu visual. Confira outros modelos com pedras médias e grandes.",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 3,
+      "brandid": 1,
+      "price": 32,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_solitario_com_pedra_de_zirconia_6_garras_81_2_20200626102952.jpg",
+      "stock": 20,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 7,
+      "name": "ANEL SOLITÁRIO COM ZIRCÔNIA GRANDE",
+      "description": "Anel solitário banhado a ouro 18K com Zircônia grande. Anéis solitários é ideal para garantir um look com muito mais brilho e glamour. Um sucesso entre as mulheres os solitários sempre foi um acessório garantido para realçar as suas combinações. A Badulaquetraz uma linha de solitários banhados em ouro 18k com zircônia, uma opção luxuosa e sofisticada para seu visual. Confira outros modelos com pedras médias e grandes.",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 3,
+      "brandid": 1,
+      "price": 21,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_solitario_com_zirconia_grande_41_1_20200624125248.jpg",
+      "stock": 13,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 8,
+      "name": "ANEL SOLITÁRIO COM PEDRA DE ZIRCÔNIA PEQUENA",
+      "description": "Anel solitário banhado em Ouro 18K e com Zircônia. Anéis solitários é ideal para garantir um look com muito mais brilho e glamour. Um sucesso entre as mulheres os solitários sempre foi um acessório garantido para realçar as suas combinações. A Badulaquetraz uma linha de solitários banhados em ouro 18k com zircônia, uma opção luxuosa e sofisticada para seu visual. Confira outros modelos com pedras médias e grandes.",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 3,
+      "brandid": 1,
+      "price": 30,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_solitario_com_zirconia_grande_41_1_20200624125248.jpg",
+      "stock": 10,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 9,
+      "name": "ANEL CRAVEJADO COM ZIRCÔNIA QUADRADA",
+      "description": "Anel em formato quadrado com micro zircônias na cor cristal e uma zircônia central quadrada na cor leitosa e banhada a ouro 18k. Os anéis com zircônias dão um toque moderno e sofisticado no visual, podem ser usados em qualquer ocasião juntos com demais anéis ou separadamente formando um lindo mix de cores, tamanhos e modelos. ",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 4,
+      "brandid": 1,
+      "price": 34,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_cravejada_com_zirconia_quadrado_73_2_20200624171356.jpg",
+      "stock": 22,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 10,
+      "name": "ANEL COM RESINA CIANO E ZIRCÔNIAS ROSA",
+      "description": "Anel aparador com resina na cor ciano e detalhes em zircônias rosas e é folheado a ouro 18k. Apostando nas tendências mais leves e coloridas a Badulaque traz um anel sem exageros que combina perfeitamente com vários tipos de looks. Peça extremamente rica em acabamentos e detalhes. Impressiona por sua leveza e sofisticação. ",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 4,
+      "brandid": 1,
+      "price": 94,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_com_resina_ciano_e_zirconias_roxo_79_1_20200624174002.jpg",
+      "stock": 14,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": 11,
+      "name": "ANEL COM RESINA CORAL E ZIRCÔNIAS ROXA",
+      "description": "Anel aparador com resina na cor coral e detalhes em zircônias roxa e é folheado a ouro 18k. Apostando nas tendências mais leves e coloridas a Badulaque traz um anel sem exageros que combina perfeitamente com vários tipos de looks. Peça extremamente rica em acabamentos e detalhes. Impressiona por sua leveza e sofisticação. ",
+      "unity_measure": "PEÇA",
+      "subcategoryid": 4,
+      "brandid": 1,
+      "price": 94,
+      "image": "https://images.tcdn.com.br/img/img_prod/789210/anel_com_resina_coral_e_zirconias_roxo_77_2_20200624173134.jpg",
+      "stock": 12,
+      "date_added": "30/03/2021 00:00",
+      "date_updated": "30/03/2021 00:00",
+      "userid": "605a8605fc5741586d51547c",
+      "active": 1
+    },
+    {
+      "id": "20xe3vlmmdskmwj6quj",
+      "name": "teste",
+      "price": "55",
+      "stock": "90",
+      "description": "stsesdfsfsdfsdf"
+    },
+    {
+      "name": "BRINCO DE OURO",
+      "description": "BRINCO DE OURO 18K",
+      "unity_measure": "PECA",
+      "subcategory": 1,
+      "brandid": 1,
+      "price": "1000",
+      "image": "",
+      "stock": 0,
+      "userid": "xxxxxxx",
+      "active": 1,
+      "id": "t83a8idcb0dkmwjn091"
+    }
+  ]
+}
